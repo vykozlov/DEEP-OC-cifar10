@@ -4,7 +4,7 @@
 
 # DEEP-OC-cifar10
 
-[![Build Status](https://jenkins.indigo-datacloud.eu:8080/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/DEEP-OC-cifar10/master)](https://jenkins.indigo-datacloud.eu:8080/job/Pipeline-as-code/job/DEEP-OC-org/job/DEEP-OC-cifar10/job/master)
+[![Build Status](https://jenkins.indigo-datacloud.eu:8080/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/DEEP-OC-cifar10/test)](https://jenkins.indigo-datacloud.eu:8080/job/Pipeline-as-code/job/DEEP-OC-org/job/DEEP-OC-cifar10/job/test)
 
 This is a container that will simply run the DEEP as a Service API component,
 with cifar10 (src: [cifar10](https://github.com/vykozlov/cifar10)).
